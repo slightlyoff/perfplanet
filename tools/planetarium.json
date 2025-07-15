@@ -195,5 +195,12 @@
     "feed": "https://imkev.dev/feed",
     "twitter": "imkevdev",
     "mastodon": "@kevinfarrugia@webperf.social"
+  },
+  {
+    "blog": "https://infrequently.org/",
+    "name": "Alex Russell",
+    "feed": "https://infrequently.org/tags/performance/feed/feed.xml",
+    "bsky": "infrequently.org",
+    "mastodon": "@slightlyoff@toot.cafe"
   }
 ]
